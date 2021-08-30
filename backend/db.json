@@ -23,6 +23,14 @@
       "qtd": "50",
       "valor": "10",
       "id": 3
+    },
+    {
+      "nameprod": "Biscoito",
+      "marca": "Richester",
+      "departamento": "Alimentos",
+      "qtd": "50",
+      "valor": "3",
+      "id": 4
     }
   ]
 }
